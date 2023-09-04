@@ -19,9 +19,6 @@ Direct improvement of the performance of decision-making processes through the d
  <img alt="Maik Paixao Medium" width="100em" height="25em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@maikpaixao/">
- <img alt="Maik Paixao Medium" width="100em" height="25em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
 <br/>
 
 ### My github stats
