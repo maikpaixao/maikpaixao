@@ -1,4 +1,8 @@
-### Maik Luiz Paixão
+### Hi! I'm Maik Paixao
+
+I have 5+ years of experience in the Data area using cutting-edge technologies.
+
+Direct improvement of the performance of decision-making processes through the development of Technology, Finance, Marketing and Sales products.
 
 ### You can find out more about me and my work:
 
