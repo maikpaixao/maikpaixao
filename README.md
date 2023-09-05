@@ -21,13 +21,6 @@ Direct improvement of the performance of decision-making processes through the d
 
 <br/>
 
-### My github stats
-
-<div>
-<img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=maikpaixao&show_icons=true" alt="jeefelix" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikpaixao&layout=compact&langs_count=5"/>
-<div/>
-
 <!--
 **maikpaixao/maikpaixao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
