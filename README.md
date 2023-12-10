@@ -1,6 +1,6 @@
 ### Hi! I'm Maik Paixao
 
-I have 5+ years of experience in the Data area using cutting-edge technologies.
+I have 6+ years of experience in deliverying top notch Data Products using cutting-edge technologies.
 
 Direct improvement of the performance of decision-making processes through the development of Technology, Finance, Marketing and Sales products.
 
