@@ -1,10 +1,10 @@
 ### Hi! I'm Maik Paixao
 
-I have 6+ years of experience in deliverying top notch Data Products using cutting-edge technologies.
-
-Direct improvement of the performance of decision-making processes through the development of Technology, Finance, Marketing and Sales products.
+Data Scientist with extensive experience in developing cutting-edge technologies in the data area. My experience spans the spectrum of building ETLs, data analysis and implementing predictive models, enabling my clients to transform complex data into actionable insights.
 
 ### You can find out more about me and my work:
+
+<b>Website: <b> www.maikpaixao.com
 
 <a href="https://twitter.com/maikpaixao/">
  <img alt="Maik Paixao Twitter" | Twitter" width="100em" height="25em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" />
