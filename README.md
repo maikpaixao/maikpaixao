@@ -1,6 +1,6 @@
 ### Hi! I'm Maik Paixao
 
-Data Scientist with extensive experience in developing cutting-edge technologies in the data area. My experience spans the spectrum of building ETLs, data analysis and implementing predictive models, enabling my clients to transform complex data into actionable insights.
+Data & AI Specialist, MBA. Building scalable ML and AI solutions in Finance, Law and Marketing.
 
 ### You can find out more about me and my work:
 
@@ -11,9 +11,6 @@ Data Scientist with extensive experience in developing cutting-edge technologies
 </a>
 <a href="https://www.linkedin.com/in/maikpaixao/">
   <img alt="Maik Paixao LinkedIn" width="100em" height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a href="https://dev.to/maikpaixao/">
-  <img alt="Maik Paixao Dev.to" width="100em" height="25em" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 <a href="https://medium.com/@maikpaixao/">
  <img alt="Maik Paixao Medium" width="100em" height="25em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
